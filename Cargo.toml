@@ -9,6 +9,7 @@ license = "MIT OR Apache-2.0"
 repository = "https://github.com/Amelit-Nexus/infallible_tobigint"
 name = "infallible_tobigint"
 readme = "README.md"
+exclude = ["/.github/*"]
 version = "0.1.0"
 edition = "2021"
 rust-version = "1.82"
