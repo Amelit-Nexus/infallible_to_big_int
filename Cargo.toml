@@ -1,0 +1,17 @@
+[package]
+authors = ["Jonas Weigand <info@jonasweigand.de>"]
+description = "Infallible ToBigInt/ToBigUint conversion traits for num-bigint"
+documentation = "https://docs.rs/infallible_tobigint"
+homepage = "https://github.com/Amelit-Nexus/infallible_tobigint"
+keywords = ["mathematics", "numerics", "bignum"]
+categories = ["algorithms", "data-structures", "science"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Amelit-Nexus/infallible_tobigint"
+name = "infallible_tobigint"
+readme = "README.md"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.82"
+
+[dependencies]
+num = "0.4.3"
