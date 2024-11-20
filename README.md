@@ -1,7 +1,8 @@
 # Infallible ToBigInt
 
-[![Crates.io](https://img.shields.io/crates/v/{{project-name}}.svg)](https://crates.io/crates/{{project-name}})
-[![Docs.rs](https://docs.rs/{{project-name}}/badge.svg)](https://docs.rs/{{project-name}})
+[![Crates.io](https://img.shields.io/crates/v/infallible_tobigint.svg)](https://crates.io/crates/infallible_tobigint)
+[![Docs.rs](https://docs.rs/infallible_tobigint/badge.svg)](https://docs.rs/infallible_tobigint)
+[![CI](https://github.com/Amelit-Nexus/infallible_tobigint/actions/workflows/rust.yml/badge.svg)](https://github.com/Amelit-Nexus/infallible_tobigint/actions)
 
 ## Overview
 
