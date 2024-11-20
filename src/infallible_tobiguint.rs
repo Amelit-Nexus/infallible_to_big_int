@@ -8,7 +8,7 @@ use num::{bigint::ToBigUint, BigUint};
 ///
 /// # Example
 /// ```
-/// use infallible_to_big_int::*;
+/// use infallible_tobigint::infallible_tobiguint::*;
 ///
 /// // use the conversion directly
 /// 153830_u32.to_biguint();

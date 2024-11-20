@@ -8,7 +8,7 @@ use num::{bigint::ToBigInt, BigInt};
 ///
 /// # Example
 /// ```
-/// use crate::infallible_to_big_int::*;
+/// use infallible_tobigint::infallible_tobigint::*;
 ///
 /// // use the conversion directly
 /// 153830.to_bigint();
