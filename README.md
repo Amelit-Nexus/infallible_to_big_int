@@ -19,6 +19,21 @@ implemented on types that support infallible conversion, and so they do not retu
 * run `cargo install infallible_tobigint`
 
 ## Usage
+```rust
+use crate::infallible_to_big_int::*;
+
+// use the conversion directly
+153830.to_bigint();
+
+// or define a function which takes any InfallibleToBigInt
+fn do_great_things(to_bigint: impl InfallibleToBigInt) {
+    let bigint = to_bigint.to_bigint();
+    // ... do something nice with bigint here
+}
+
+// then you can call it like this
+do_great_things(153830)
+```
 
 ## License
 
